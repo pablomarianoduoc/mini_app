@@ -1,0 +1,1 @@
+# El codigo que utilice para crear el proyecto Djando es django-admin startproject mi_app
